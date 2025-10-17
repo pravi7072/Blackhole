@@ -401,6 +401,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by Pravin Thete**
 
-[⬆ Back to Top](#-blackhole-ai)
+[⬆ Back to Top](Blackhole)
 
 </div>
