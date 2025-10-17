@@ -209,19 +209,19 @@ blackhole-ai/
 
 ### Main Interface
 <div align="center">
-  <img src="screenshots/main-interface.png" alt="Main Interface" width="800"/>
+  <img src="screeshots/main-interface.png" alt="Main Interface" width="800"/>
   <p><em>Modern chat interface with intelligent routing indicators</em></p>
 </div>
 
 ### Code Generation
 <div align="center">
-  <img src="screenshots/code-generation.png" alt="Code Generation" width="800"/>
+  <img src="screeshots/code-generation.png" alt="Code Generation" width="800"/>
   <p><em>Professional code blocks with syntax highlighting and copy buttons</em></p>
 </div>
 
 ### Model Selection
 <div align="center">
-  <img src="screenshots/model-selection.png" alt="Model Selection" width="800"/>
+  <img src="screeshots/model-selection.png" alt="Model Selection" width="800"/>
   <p><em>Smart routing with manual override capability</em></p>
 </div>
 
