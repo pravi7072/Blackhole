@@ -56,7 +56,7 @@ ANTHROPIC_API_KEY=your_actual_anthropic_key_here
 ## Step 4: Run the Application
 
 ```bash
-python blackhole-final-spacing-fixed.py
+python BlackholeFile.py
 ```
 
 The application will:
@@ -95,7 +95,6 @@ explain quantum computing in simple terms
 
 ## Keyboard Shortcuts
 
-- `Enter` - Send message
 - `Ctrl+Enter` - New line in message
 - `F1` - Create new chat
 - `Escape` - Focus input field
@@ -138,7 +137,7 @@ explain quantum computing in simple terms
 - Restart application if needed
 
 ### Database errors
-- Delete `blackhole_conversations_pro.db` file
+- Delete `blackhole_conversations.db` file
 - Restart application (will recreate database)
 
 ## Testing Your Setup
@@ -146,7 +145,7 @@ explain quantum computing in simple terms
 Run self-tests to verify everything works:
 
 ```bash
-python blackhole-final-spacing-fixed.py --selftest
+python BlackholeFile.py --selftest
 ```
 
 This will test:
