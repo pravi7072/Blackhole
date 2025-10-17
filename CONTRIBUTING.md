@@ -86,7 +86,7 @@ Fixes #123
 
 - Write unit tests for new features
 - Ensure all tests pass before submitting PR
-- Run self-tests: `python blackhole-final-spacing-fixed.py --selftest`
+- Run self-tests: `python BlackholeFile.py --selftest`
 - Test with different API configurations
 - Test edge cases and error handling
 
@@ -101,8 +101,8 @@ Fixes #123
 
 1. **Clone your fork:**
    ```bash
-   git clone https://github.com/your-username/blackhole-ai.git
-   cd blackhole-ai
+   git clone https://github.com/pravi7072/Blackhole.git
+   cd Blackhole
    ```
 
 2. **Create virtual environment:**
@@ -130,8 +130,8 @@ Fixes #123
 ## Project Structure
 
 ```
-blackhole-ai/
-├── blackhole-final-spacing-fixed.py  # Main application
+Blackhole/
+├── BlackholeFile.py  # Main application
 ├── requirements.txt                   # Dependencies
 ├── .env.example                      # Environment template
 ├── README.md                         # Documentation
