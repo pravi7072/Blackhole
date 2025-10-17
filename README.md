@@ -74,8 +74,8 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/blackhole-ai.git
-cd blackhole-ai
+git clone https://github.com/pravi7072/Blackhole.git
+cd Blackhole
 ```
 
 ### Step 2: Install Dependencies
@@ -112,13 +112,13 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ### Running the Application
 
 ```bash
-python blackhole-final-spacing-fixed.py
+python BlackholeFile.py
 ```
 
 ### Running Self-Tests
 
 ```bash
-python blackhole-final-spacing-fixed.py --selftest
+python BlackholeFile.py --selftest
 ```
 
 ### Basic Operations
@@ -129,7 +129,6 @@ python blackhole-final-spacing-fixed.py --selftest
 
 #### Sending Messages
 - Type your message in the input field
-- Press `Enter` or click the send button
 - Use `Ctrl+Enter` for multi-line input
 
 #### Switching Models
@@ -201,7 +200,7 @@ blackhole-ai/
 ├── .env.example                      # Example environment file
 ├── README.md                         # This file
 ├── LICENSE                           # MIT License
-└── blackhole_conversations_pro.db   # SQLite database (auto-generated)
+└── blackhole_conversations.db   # SQLite database (auto-generated)
 ```
 
 ---
@@ -384,19 +383,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 💬 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/blackhole-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/blackhole-ai/discussions)
-- **Email**: your.email@example.com
+- **Email**: pravinthete8080@gmail.com
 
 ---
 
 ## 📞 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- GitHub: [@pravi7072](https://github.com/pravi7072)
+- LinkedIn: [Pravin Thete](https://www.linkedin.com/in/pravin-thete-631977315/)
 
 ---
 
@@ -404,7 +399,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ If you find this project useful, please consider giving it a star!
 
-**Made with ❤️ by Your Name**
+**Made with ❤️ by Pravin Thete**
 
 [⬆ Back to Top](#-blackhole-ai)
 
