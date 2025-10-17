@@ -158,7 +158,7 @@ None - Initial release
 ## Contributors
 
 ### Lead Developer
-- [Your Name] - Initial work and project lead
+- Pravin Thete - Initial work and project lead
 
 ### Special Thanks
 - Flet Framework team
@@ -169,13 +169,5 @@ None - Initial release
 
 ---
 
-## Links
-
-- [Homepage](https://github.com/yourusername/blackhole-ai)
-- [Issue Tracker](https://github.com/yourusername/blackhole-ai/issues)
-- [Documentation](https://github.com/yourusername/blackhole-ai/blob/main/README.md)
-- [Discussions](https://github.com/yourusername/blackhole-ai/discussions)
-
----
 
 **Note**: This changelog follows the [Keep a Changelog](https://keepachangelog.com/) format and uses [Semantic Versioning](https://semver.org/).
